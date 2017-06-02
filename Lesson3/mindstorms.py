@@ -15,10 +15,10 @@ def draw_art():
     brad.speed(2)
     draw_square(brad)
     #Create the turtle Angie - Draws a circle
-    angie = turtle.Turtle()
-    angie.shape("arrow")
-    angie.color("blue")
-    angie.circle(100)
+    #angie = turtle.Turtle()
+    #angie.shape("arrow")
+    #angie.color("blue")
+    #angie.circle(100)
     
     window.exitonclick()
 
